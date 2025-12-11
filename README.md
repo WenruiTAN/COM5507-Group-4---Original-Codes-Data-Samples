@@ -1,4 +1,6 @@
 # COM5507 Group 4 Original Codes and Data Samples
+## Weibo and the Waves of Emotion: Public Sentiment Evolution in the Xibei Pre-made Meal Incident
+
 Group 4 Name List:
   TAN Wenrui 59954940
   SONG Yanxuan 59724266
